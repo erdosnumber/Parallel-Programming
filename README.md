@@ -7,7 +7,7 @@ To run the code, follow these steps:
 
 ## Example Input and Output
 
-Some example input and output commands are provided below:
+Some example input commands are provided below:
 
 ./subtask1 1 3 2 2 1 0 0 0 1 0 0 0 1 1 0 0 1
 
