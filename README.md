@@ -9,12 +9,6 @@ To run the code, follow these steps:
 
 Some example input and output commands are provided below:
 
-bash
-./subtask3
-
-./subtask4 0/1
-
-bash
 ./subtask1 1 3 2 2 1 0 0 0 1 0 0 0 1 1 0 0 1
 
 ./subtask1 1 3 2 0 1 0 0 0 1 0 0 0 1 1 0 0 1
@@ -35,6 +29,6 @@ bash
 
 ./subtask2 4 1 1 2 3 4 5 6 7 8
 
-The same commands can be used for subtask 2 since the input format remains the same.
+./subtask3
 
-This README provides instructions for compiling and running the code, as well as example commands for each subtask.
+./subtask4 0/1
